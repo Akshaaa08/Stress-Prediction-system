@@ -58,13 +58,11 @@ This project focuses on predictive health analytics using machine learning model
 ## Screenshots
 
 ### Dashboard / Analysis Overview
-(Add Screenshot)
+<img width="1600" height="762" alt="dash1" src="https://github.com/user-attachments/assets/30bfd019-3a3a-4a6f-897d-7921871168fb" />
 
-### Stress Prediction Analysis
-(Add Screenshot)
+<img width="1600" height="758" alt="dash2" src="https://github.com/user-attachments/assets/40d97da4-e4e4-4e6a-9ba2-6ccbf785a8b0" />
 
-### BMI Visualization
-(Add Screenshot)
+<img width="1600" height="757" alt="dash3" src="https://github.com/user-attachments/assets/dfd4dd17-28b9-4c26-afae-a81230304e14" />
 
 ---
 
